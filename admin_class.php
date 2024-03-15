@@ -396,13 +396,13 @@ Class Action {
 			//    $mail->isSMTP();
 			//    $mail->Host='smtp.gmail.com';
 			//    $mail->SMTPAuth=true;
-			//    $mail->Username='charankulal0241@gmail.com';
+			//    $mail->Username='jeevandadiya@gmail.com';
 			//    $mail->Password='ikfvpykfxzewzrrr';
 			//    $mail->SMTPSecure=PHPMailer::ENCRYPTION_STARTTLS;
 			//    $mail->Port=587;
-			//    $mail->setFrom('charankulal0241@gmail.com','Charan');
-			//    $mail->addReplyTo('charankulal0241@gmail.com','Charan');
-			//    $mail->addAddress('charankulal0241@gmail.com');
+			//    $mail->setFrom('jeevandadiya@gmail.com','Jeevan');
+			//    $mail->addReplyTo('jeevandadiya@gmail.com','Jeevan');
+			//    $mail->addAddress('jeevandadiya@gmail.com');
 			//    $mail->IsHTML(true);
 			//    $mail->Subject='Fast Courier Management System';
 			//    $mail->Body=$ref;
